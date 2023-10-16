@@ -1,0 +1,18 @@
+# Ignorar arquivos de dependências e módulos
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignorar arquivos de build
+dist/
+build/
+
+# Ignorar arquivos de configuração específicos de editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
